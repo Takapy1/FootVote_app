@@ -5,6 +5,4 @@ import (
 )
 
 type Team struct {
-	ID
-	name
 }
